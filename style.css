@@ -1,3 +1,10 @@
-body{
+.cabecalho{
     background-color: #F6D8D8;
+
+display :flex: ;
+}
+
+
+.cabecalho-imagem{
+width: 20%;
 }
